@@ -14,7 +14,7 @@ Jar包后门-Tomcat启动时回连到CobaltStrike。
 
 | Java | 中间件         | 操作系统  |
 | ---- | -------------- | --------- |
-| 1.8  | Tomcat7/8/9/10 | Windows10 |
+| 1.8  | Tomcat7/8/9/10 | Windows10/Windows7 |
 
 # 参考
 
